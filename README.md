@@ -66,7 +66,7 @@ A modular raytracer that renders 3D scenes by casting rays from a virtual camera
 
 <p align="center">─────────  ◆  ─────────</p>
 
-#### [Portfolio](https://github.com/Tataneeeeeeeeeee/Portfolio) · [live site](https://tataneeeeeeeeeee.github.io/Portfolio/)
+#### [Portfolio](https://github.com/Tataneeeeeeeeeee/Portfolio) · [live site](https://ethanvertforest.fr/portfolio)
 `JavaScript` `GitHub API`
 
 A single-page portfolio with no build step, where the projects are pulled live from the GitHub API. GitHub responses are cached with ETags and the site handles rate limits gracefully. It has dark and light themes, English and French with runtime translation and manual overrides, and hand-written SVG charts.
@@ -100,7 +100,7 @@ French (native) · English (TOEIC 700)
 
 ### Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-b4a7f5?style=flat&logo=githubpages&logoColor=white)](https://tataneeeeeeeeeee.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-b4a7f5?style=flat&logo=githubpages&logoColor=white)](https://ethanvertforest.fr/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-vert-forest/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ethanvertforest@gmail.com)
 
