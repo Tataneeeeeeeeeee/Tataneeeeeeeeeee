@@ -75,10 +75,20 @@ A single-page portfolio with no build step, where the projects are pulled live f
 
 ### Tech stack
 
-**Languages:** Rust · Python · C · C++ · Haskell · Bash
-**Backend:** Django REST Framework · REST API design · OAuth & authentication · SQL
-**Tooling:** Git · Linux · Make · VS Code · CLion
-**Debugging:** GDB · Valgrind · AddressSanitizer
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=rust,py,c,cpp,haskell,bash&perline=10" alt="rust,py,c,cpp,haskell,bash" height="44"><br>
+<sub>Rust · Python · C · C++ · Haskell · Bash</sub>
+
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=django&perline=10" alt="django" height="44"><br>
+<sub>Django REST Framework · REST API design · OAuth & authentication · SQL</sub>
+
+**Tooling**<br>
+<img src="https://skillicons.dev/icons?i=git,linux,arch,vscode,clion&perline=10" alt="git,linux,arch,vscode,clion" height="44"><br>
+<sub>Git · Linux (Arch) · Make · VS Code · CLion</sub>
+
+**Debugging**<br>
+<sub>GDB · Valgrind · AddressSanitizer</sub>
 
 ---
 
