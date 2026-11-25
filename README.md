@@ -37,14 +37,14 @@ A complete, modular Hyprland desktop with a hand-drawn "encre" style (ink, parch
   <img src="https://raw.githubusercontent.com/Tataneeeeeeeeeee/Inkpaw/main/docs/screenshots/spotlight.webp" alt="Launcher" width="32%">
 </p>
 
-<p align="center">· · ·</p>
+<p align="center">─────────  ◆  ─────────</p>
 
 #### [My-Editor](https://github.com/Tataneeeeeeeeeee/My-editor)
 `Rust` `GPUI`
 
 A fast, lightweight text editor built in Rust on GPUI, the GPU-accelerated UI framework behind Zed. It has syntax highlighting through Syntect (Rust, C, C++, C#, Python, JavaScript, Markdown, TOML, JSON), unlimited tabs with unsaved-change markers, and an integrated file explorer that can create files and folders. Keyboard shortcuts are customizable and Unicode is fully supported.
 
-<p align="center">· · ·</p>
+<p align="center">─────────  ◆  ─────────</p>
 
 #### [Agentboard (Claude-Dashboard)](https://github.com/Tataneeeeeeeeeee/Claude-Dashboard)
 `Python` `Desktop app`
@@ -53,7 +53,7 @@ A fast, lightweight text editor built in Rust on GPUI, the GPU-accelerated UI fr
 
 A local, offline desktop dashboard for the history that AI coding assistants keep on your machine: Claude Code, OpenAI Codex CLI, Gemini CLI, or any tool described in a small spec file. It offers full-text search across every transcript, a conversation viewer with Markdown and highlighted code, and usage statistics (tokens, cost, tools, activity heatmap) compared side by side per provider. It also exports to Markdown, HTML or JSON, and can tidy old sessions into a recoverable trash.
 
-<p align="center">· · ·</p>
+<p align="center">─────────  ◆  ─────────</p>
 
 #### [Raytracer](https://github.com/JJE-Corpo/Raytracer)
 `C++` `Plugins`
@@ -64,7 +64,7 @@ A modular raytracer that renders 3D scenes by casting rays from a virtual camera
   <img src="https://raw.githubusercontent.com/JJE-Corpo/Raytracer/main/render.png" alt="Raytracer render" width="70%">
 </p>
 
-<p align="center">· · ·</p>
+<p align="center">─────────  ◆  ─────────</p>
 
 #### [Portfolio](https://github.com/Tataneeeeeeeeeee/Portfolio) · [live site](https://tataneeeeeeeeeee.github.io/Portfolio/)
 `JavaScript` `GitHub API`
