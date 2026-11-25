@@ -1,4 +1,4 @@
-# Hi, I'm Ethan
+# Hi, I'm Ethan 👋
 
 **Backend developer & computer science student at [EPITECH](https://www.epitech.eu/) (2024 – 2029)**, based in Toulouse, France.
 
