@@ -39,6 +39,21 @@ A complete, modular Hyprland desktop with a hand-drawn "encre" style (ink, parch
 
 <p align="center">─────────  ◆  ─────────</p>
 
+#### [myOwnHyprland](https://github.com/Tataneeeeeeeeeee/myOwnHyprland)
+`Python` `Ollama` `RAG` `Hyprland`
+
+A 100% local AI agent (Ollama + qwen3.5 9B) that writes, validates and fixes Hyprland (Lua), Waybar and Quickshell configs from a plain-language request. Every file it writes is checked by the real tools (`Hyprland --verify-config`, a live Waybar test run, qmllint), and the agent loops on the errors until the config is valid, then re-reads the request point by point. Answers are grounded with RAG over the Hyprland and Waybar wikis and real-world configs. An evaluation bench of 38 cases with deterministic checks measures every change to the prompt and tools, and good runs feed a fine-tuning dataset. Results are applied to `~/.config` only after a diff, a confirmation and a backup.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tataneeeeeeeeeee/myOwnHyprland/master/docs/screenshots/welcome.png" alt="myOwnHyprland home screen" width="80%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tataneeeeeeeeeee/myOwnHyprland/master/docs/screenshots/run.png" alt="The agent fixing a Waybar error until the config is valid" width="80%">
+</p>
+<p align="center"><sub>The agent's interface is in French: here it fixes a CSS property GTK rejects, then checks the request point by point.</sub></p>
+
+<p align="center">─────────  ◆  ─────────</p>
+
 #### [My-Editor](https://github.com/Tataneeeeeeeeeee/My-editor)
 `Rust` `GPUI`
 
